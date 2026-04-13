@@ -28,4 +28,4 @@ A simple pong game where two players can compete each other.
 - Turtle Graphics
 
 ## Preview
-![Gameplay](gameplay.png)
+![Gameplay](PongGameplay.png)
